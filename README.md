@@ -28,19 +28,6 @@
 
 ---
 
-## 📂 Featured Projects  
-
-Here are some highlights of what I’ve been building:
-
-- 🧬 **MedicalImagingRAG** → Retrieval-Augmented Generation + Physics-Informed Neural Networks for MRI diagnostics  
-- 🧠 **Brain Tumor PINN** → Modeling tumor growth using PDEs, anisotropic diffusion, and biophysical constraints  
-- 🚦 **Smart Traffic Simulation** → Intelligent, real-time traffic modeling with adaptive behaviors  
-- ☁️ **Cloud-based Photo Storage** → Secure, private photo cloud deployment using Nextcloud + Oracle Cloud  
-
-> More projects inside my pinned repositories ↓  
-
----
-
 ## 📊 GitHub Analytics  
 
 <p align="center">
