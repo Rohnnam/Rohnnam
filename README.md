@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Rohan%20Nambiar&fontAlign=50&fontAlignY=40&color=gradient&animation=fadeIn&desc=AI%20Engineer%20in%20Training%20%7C%20Data%20Science%20Explorer&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Rohan%20Nambiar&fontAlign=50&fontAlignY=40&color=gradient&animation=fadeIn&desc=AI%20%7C%20Data%20Science%20%7C%20Engineering%20Student&descAlign=50&descAlignY=60" />
 </p>
 
 <!-- Typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Science+Engineering+Student;Aspiring+AI+Engineer+in+Dubai;Machine+Learning+%7C+Deep+Learning+%7C+Cloud;Building+Projects+That+Matter">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Science+Engineering+Student;Aspiring+AI+Engineer+in+Dubai;Machine+Learning+%7C+Deep+Learning+%7C+Cloud;Always+Exploring+%7C+Always+Building">
 </p>
 
 ---
@@ -14,62 +14,48 @@
 
 - 🎓 **Data Science Engineering Student** at Woxsen University  
 - 🧠 Passionate about **AI, ML, DL, and Cloud Computing**  
-- 🌍 Aspiration: Build impactful AI systems in **Dubai**  
-- 📊 Current Focus: Medical Imaging, Physics-Informed AI, Cloud Deployment  
-- ⚡ Philosophy: *“Engineering intelligence to solve real problems.”*  
+- 🌍 Aspiration: To engineer impactful AI solutions in **Dubai**  
+- 📊 Research Interests: Medical Imaging, PINNs, RAG Systems, Intelligent Systems  
+- ⚡ Belief: *“Code is not just logic; it’s a tool to reimagine possibility.”*  
 
 ---
 
-## 🛠️ Skills & Tools  
+## 🛠️ Tech Stack  
 
-**Programming & Data**  
-`Python` • `SQL` • `NumPy` • `Pandas` • `Scikit-Learn` • `PyTorch` • `TensorFlow`  
-
-**AI & Research**  
-`Deep Learning` • `Medical Imaging` • `Physics-Informed Neural Networks` • `Retrieval-Augmented Generation (RAG)`  
-
-**Cloud & DevOps**  
-`AWS` • `Azure` • `Docker` • `Git` • `Linux` • `Oracle Cloud`  
-
-**Web & Apps**  
-`HTML` • `CSS` • `JavaScript` • `React` • `Flask`  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,linux,html,css,js,react,docker,aws,azure,vscode" />
+</p>
 
 ---
 
-## 🚀 Projects Showcase  
+## 📂 Featured Projects  
 
-🔹 **MedicalImagingRAG**  
-*AI + Physics + Retrieval* → Enhancing MRI diagnostics by merging PINNs with Retrieval-Augmented Generation.  
+Here are some highlights of what I’ve been building:
 
-🔹 **Brain Tumor PINN**  
-*Research-Oriented* → Tumor growth modeling using PDEs, anisotropic diffusion, and treatment-effect simulations.  
+- 🧬 **MedicalImagingRAG** → Retrieval-Augmented Generation + Physics-Informed Neural Networks for MRI diagnostics  
+- 🧠 **Brain Tumor PINN** → Modeling tumor growth using PDEs, anisotropic diffusion, and biophysical constraints  
+- 🚦 **Smart Traffic Simulation** → Intelligent, real-time traffic modeling with adaptive behaviors  
+- ☁️ **Cloud-based Photo Storage** → Secure, private photo cloud deployment using Nextcloud + Oracle Cloud  
 
-🔹 **Smart Traffic Simulation**  
-*System Design* → Adaptive traffic flow modeling with real-time GUI stats and intelligent vehicles.  
-
-🔹 **Personal Cloud Storage**  
-*Engineering Solution* → Built a secure Nextcloud system on Oracle Cloud for 40+ GB photo archiving.  
+> More projects inside my pinned repositories ↓  
 
 ---
 
-## 🏆 Certifications & Achievements  
+## 📊 GitHub Analytics  
 
-- 🥇 Completed multiple ML/DL projects during coursework  
-- ☁️ Hands-on experience deploying cloud apps with **AWS/Azure/Oracle Cloud**  
-- 📜 Published/Working on research in **Medical Imaging + PINNs**  
-- 🏅 Actively building a portfolio of intelligent systems  
-
-*(Add links to certificates or GitHub repos when available)*  
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rohnnam&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohnnam&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🌱 Learning Roadmap (2025)  
+## 🌱 Currently Exploring  
 
-- 📖 Advanced Deep Learning Architectures (Transformers, GNNs)  
-- ⚡ Federated & Privacy-Preserving AI  
-- ☁️ Cloud-Native AI Deployment (MLOps, Kubernetes)  
-- 🧬 AI for Healthcare & Medical Imaging Research  
-- 🎯 Building robust, production-grade AI systems for real-world use  
+- 🚀 Scaling PINNs for biomedical applications  
+- ☁️ Optimizing AI training with cloud-native workflows  
+- 🔎 Federated & privacy-preserving AI systems  
+- 📚 Staying up to date with the latest in ML/DL  
 
 ---
 
