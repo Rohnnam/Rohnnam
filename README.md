@@ -30,15 +30,19 @@
 
 ---
 
----
+## 📚 Research & Writing  
 
-## 📚 Research & Writing
+Currently drafting and curating my research notes, covering:  
 
-- [PINNs for Biomedical Inverse Problems — Notes & Experiments](#)
-- [RAG Systems: Retrieval, Re-ranking, and Evaluation](#)
-- [Cloud-Native ML: Patterns for Reproducible Training](#)
+- PINNs for biomedical inverse problems  
+- Retrieval-Augmented Generation (RAG) evaluation methods  
+- Cloud-native ML training and reproducibility  
+- Federated & privacy-preserving AI systems  
 
-> Long-form lives here. Link to Medium/Hashnode/Notion/ArXiv as you publish.
+> 📌 My research writings will be published here soon — stay tuned.  
+
+<p align="center"><i>“Every experiment deserves a record; every record fuels the next breakthrough.”</i></p>
+
 
 ---
 
