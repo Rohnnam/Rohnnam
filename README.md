@@ -3,8 +3,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Rohan%20Nambiar&fontAlign=50&fontAlignY=40&color=gradient&animation=fadeIn&desc=AI%20%7C%20Data%20Science%20%7C%20Engineering%20Student&descAlign=50&descAlignY=60" />
 </p>
 
+<h1 align="center">Rohan Nambiar</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Rohan+Nambiar;AI+%7C+Data+Science+%7C+Engineering+Student;Aspiring+AI+Engineer+in+Dubai;Always+Exploring+%7C+Always+Building">
+  <b>AI | Data Science | Engineering Student</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-%2300C4FF.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-%2300C4FF.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-%2300C4FF.svg?&style=for-the-badge&logo=azure-devops&logoColor=white" />
 </p>
 
 ---
