@@ -17,8 +17,10 @@
 - 🌍 Aspiration: To engineer impactful AI solutions in **Dubai**  
 - 📊 Research Interests: Medical Imaging, PINNs, RAG Systems, Intelligent Systems  
 
-*There is no higher or lower knowledge, but one only, flowing out of experimentation.*
+<p align="center"><i>"There is no higher or lower knowledge, but one only, flowing out of experimentation."</i></p>
+
 ---
+
 
 ## 🛠️ Tech Stack  
 
