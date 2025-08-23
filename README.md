@@ -30,14 +30,18 @@
 
 ---
 
-## 📊 GitHub Analytics  
+---
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rohnnam&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohnnam&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 📚 Research & Writing
+
+- [PINNs for Biomedical Inverse Problems — Notes & Experiments](#)
+- [RAG Systems: Retrieval, Re-ranking, and Evaluation](#)
+- [Cloud-Native ML: Patterns for Reproducible Training](#)
+
+> Long-form lives here. Link to Medium/Hashnode/Notion/ArXiv as you publish.
 
 ---
+
 
 ## 🌱 Currently Exploring  
 
