@@ -23,6 +23,7 @@ Currently based in Dubai. Always learning, always building.
 ## Tools I Use
 
 **Specializations:** Physics-Informed Neural Networks (PINNs), LLM Safety, Computer Vision, ML, Transformer Architecting, Neural Architecture Synthesis, LLM Finetuning, RAG
+
 **Deployment:** Docker, FastAPI, Git  
 
 ---
