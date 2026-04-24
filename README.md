@@ -22,8 +22,6 @@ Currently based in Dubai. Always learning, always building.
 
 ## Tools I Use
 
-**Languages:** Python  
-**ML Frameworks:** PyTorch, TensorFlow
 **Specializations:** Physics-Informed Neural Networks (PINNs), LLM Safety, Computer Vision, ML, Transformer Architecting, Neural Architecture Synthesis, LLM Finetuning, RAG
 **Deployment:** Docker, FastAPI, Git  
 
