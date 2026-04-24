@@ -14,7 +14,7 @@ Currently based in Dubai. Always learning, always building.
 
 ## What I'm Working On
 
-**ARIA** — An anomaly detection system for aircraft dynamics using Neural CDEs and operator learning. Deployed with Docker. Detects subtle faults in flight data that traditional systems miss.
+**ARIA**:  An anomaly detection system for aircraft dynamics using Neural CDEs and operator learning. Deployed with Docker. Detects subtle faults in flight data that traditional systems miss.
 
 (Earlier work: LLM safety detection, physics-informed medical imaging, transformer architectures)
 
@@ -35,6 +35,7 @@ Currently based in Dubai. Always learning, always building.
 🔗 **LinkedIn:** www.linkedin.com/in/rohannam  
 💻 **GitHub:** github.com/Rohnnam  
 🌐 **Website:** rohanspf.vercel.app  
+📄 **Papers:** Zenodo @ Rohan_Nambiar
 
 ---
 
