@@ -1,34 +1,17 @@
-# Rohan Nambiar
+## Rohan Nambiar
+Third year at Woxsen. Dubai. I do ML research independently. i like swimming too.
 
-**BTech AI & Data Science | Woxsen University**
+The work is mostly mechanistic interpretability and representation geometry: I take
+a result that looks good and poke it till it tells me why. Usually the answer is that
+the model learned to notice something other than the thing we named the benchmark after.
 
----
+Recent: *Register, Not Risk* : a paper showing that a fair amount of LLM "harm detection"
+is the model quietly reacting to text that sounds like an instruction manual. Mildly
+inconvenient for a few research communities.
 
-## Who I Am
+Currently trying to make intuition and logic collaborate.
 
-I'm a second-year student building ML systems for real-world problems. I focus on safety, interpretability, and physics-informed approaches to machine learning.
-
-Currently based in Dubai. Always learning, always building.
-
----
-
-## What I'm Working On
-
-**ARIA**:  An anomaly detection system for aircraft dynamics using Neural CDEs and operator learning. Deployed with Docker. Detects subtle faults in flight data that traditional systems miss.
-
-(Earlier work: LLM safety detection, physics-informed medical imaging, transformer architectures)
-
----
-
-## Tools I Use
-
-**Specializations:** Physics-Informed Neural Networks (PINNs), LLM Safety, Computer Vision, ML, Transformer Architecting, Neural Architecture Synthesis, LLM Finetuning, RAG
-
-**Deployment:** Docker, FastAPI, Git  
-
----
-
----
+Zenodo · [LinkedIn](https://www.linkedin.com/in/rohannam) · [site](https://rohanspf.vercel.app)
 
 ## 🛠️ Tech Stack
 
