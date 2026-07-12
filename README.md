@@ -11,7 +11,7 @@ inconvenient for a few research communities.
 
 Currently trying to make intuition and logic collaborate.
 
-Zenodo · [LinkedIn](https://www.linkedin.com/in/rohannam) · [site](https://rohanspf.vercel.app)
+Zenodo@ Rohan_Nambiar · [LinkedIn](https://www.linkedin.com/in/rohannam) · [site](https://rohanspf.vercel.app)
 
 ## 🛠️ Tech Stack
 
@@ -20,16 +20,6 @@ Zenodo · [LinkedIn](https://www.linkedin.com/in/rohannam) · [site](https://roh
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## How to Reach Me
-
-📧 **Email:** rohannambiar370@gmail.com  
-🔗 **LinkedIn:** www.linkedin.com/in/rohannam  
-💻 **GitHub:** github.com/Rohnnam  
-🌐 **Website:** rohanspf.vercel.app  
-📄 **Papers:** Zenodo @ Rohan_Nambiar
 
 ---
 
