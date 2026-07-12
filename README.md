@@ -1,5 +1,5 @@
 ## Rohan Nambiar
-Third year at Woxsen. Dubai. i do ML research independently. i like swimming too.
+Third year Woxsen BTECH. Originally from Dubai. i do ML research independently. i like swimming too.
 
 The work is mostly mechanistic interpretability and representation geometry: I take
 a result that looks good and poke it till it tells me why. Usually the answer is that
